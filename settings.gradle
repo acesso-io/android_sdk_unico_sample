@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "unico_check_exemplo"

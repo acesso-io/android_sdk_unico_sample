@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">unico_check_exemplo</string>
+    <string name="select_document">"Selecione o tipo de documento"</string>
+</resources>
